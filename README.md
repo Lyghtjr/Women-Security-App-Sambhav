@@ -38,10 +38,10 @@ An Android App used for Women Safety in which SOS will be sent to emergency cont
    
    
 ### APP SCREENSHOT:
-  <img src="images/image1.jpeg" width="400" alt="girl" align="left" />
-  <img src="images/image2.jpeg" width="400" alt="girl" align="left" />
-  <img src="images/image3.jpeg" width="400" alt="girl" align="left" />
-  <img src="images/image4.jpeg" width="400" alt="girl" align="left" />
- <img src="images/image5.jpeg" width="400" alt="girl" align="left" />
+  <img src="images/image1.jpeg" width="250" height="450" align="left" />
+  <img src="images/image2.jpeg"  width="200" height="450" align="left" />
+  <img src="images/image3.jpeg"  width="200" height="450" align="left" />
+  <img src="images/image4.jpeg"  width="200" height="450" align="left" />
+ 
      
    
