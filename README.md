@@ -27,11 +27,7 @@ An Android App used for Women Safety in which SOS will be sent to emergency cont
    
    
 
-### 🤝🏼 CONTRIBUTORS:
-  * [ABHINAV RAI](https://github.com/Lyghtjr)
-  * [DEVANSHI MISHRA](https://github.com/devanshi-code)
-  * [PREETI AHUJA](https://github.com/preetiahuja18)
-  * [KOSHAL KUMAR](https://github.com/koshal111)
+
   
 ### Youtube link: [Sambhav](https://youtu.be/-3imKv73nyo)      
    
